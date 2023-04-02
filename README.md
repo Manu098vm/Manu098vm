@@ -9,7 +9,7 @@ I'm just a very random and very introvert Italian guy who loves <s>Pizza</s> to 
 
 <br/>  
 
-### Want to buy me a Pizza🍕?  
+## Want to buy me a Pizza🍕?  
 If you want to donate, I won't stop you, but I don't think you should - your money is probably better spent anywhere else :P  
 <div align="left">
             <a href="https://paypal.me/skylink24" target="_blank" style="display: inline-block;">
