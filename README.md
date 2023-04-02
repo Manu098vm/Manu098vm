@@ -1,7 +1,7 @@
 ## Hi, I'm Manu!   
 Thank you for visiting my GitHub profile ^-^
 
-I'm just a very random and very introvert Italian guy who loves to learn to code and gaming. Sometimes I do both together!
+I'm just a very random and very introvert Italian guy who loves <s>Pizza</s> to learn to code and gaming. Sometimes I do both together!
 <br/>  
 
 ## Github Stats  
